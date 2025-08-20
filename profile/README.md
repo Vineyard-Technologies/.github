@@ -25,7 +25,7 @@ Vineyard Technologies is a mobile app development company committed to creating 
 
 <div align="center">
   <a href="https://github.com/Vineyard-Technologies/Recitativos-CCB" target="_blank">
-    <img src="https://github.com/Vineyard-Technologies/Recitativos-CCB/blob/main/src/images/readmelogo.webp" alt="Recitativos CCB Logo" width="830"/>
+     <img src="https://github.com/Vineyard-Technologies/Recitativos-CCB/blob/main/src/images/RecitativosCCBGitHubLogo.webp" alt="Recitativos CCB Logo" width="830"/>
   </a>
 </div>
 
