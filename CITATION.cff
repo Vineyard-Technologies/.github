@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Please cite this organization if you use any of its projects."
+authors:
+  - name: "Vineyard Technologies"
+title: "Vineyard Technologies Open Source"
+version: 1.0.0
+date-released: 2025-09-08
+repository-code: "https://github.com/Vineyard-Technologies"
+keywords:
+  - open-source
+  - software
+  - development
+license: "MIT"
