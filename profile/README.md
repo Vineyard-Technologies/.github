@@ -29,21 +29,9 @@ Vineyard Technologies is a mobile app development company committed to creating 
   </a>
 </div>
 
-## 📖 Repository Architecture
-
-<div align="center">
-
-```mermaid
-graph TD
-    A[🌿 Vineyard Technologies] --> B[Recitativos CCB]
-    A --> C[Unnamed Tuner App]
-    A --> D[VineyardTechnologies.org]
-```
-</div>
-
 ## 📫 Our Website
 
-### [VineyardTechnologies.com](https://VineyardTechnologies.com)
+### [VineyardTechnologies.org](https://VineyardTechnologies.org)
 
 ## 📄 Licenses
 
