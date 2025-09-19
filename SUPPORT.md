@@ -22,7 +22,7 @@ For general questions, discussions, and sharing your projects, please use the "D
 
 For security-related issues, please see our `SECURITY.md` file for instructions on how to report a vulnerability.
 
-For other private inquiries, you can reach out to us at **contact@vineyardtechnologies.com**.
+For other private inquiries, you can reach out to us at **contact@VineyardTechnologies.org**.
 
 ## Our Commitment
 

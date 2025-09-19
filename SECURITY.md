@@ -14,7 +14,7 @@ We take all security vulnerabilities seriously. If you discover a security issue
 
 **Please do not report security vulnerabilities through public GitHub issues.**
 
-Instead, please email us at **contact@vineyardtechnologies.com**.
+Instead, please email us at **contact@VineyardTechnologies.org**.
 
 ### What to Include
 
