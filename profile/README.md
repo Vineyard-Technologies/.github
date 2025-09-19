@@ -21,13 +21,31 @@ Vineyard Technologies is a mobile app development company committed to creating 
 - **Client-Focused Solutions** - Developing custom mobile solutions tailored to meet specific business needs
 - **Ethical Technology** - Building applications with integrity, prioritizing user privacy and transparent business practices
 
-## ⚒️ Current Projects
+```mermaid
+graph TD
+    A[Vineyard Technologies] --> B[Games]
+    A --> C[Tools]
+    A --> D[Websites]
+    A --> E[Apps]
+    
+    B --> B1[DaggerQuest]
+    B1 --> B2[DaggerTest]
+    B1 --> B3[DaggerQuest Test Realm]
+    
+    C --> C1[Overlord]
+    C --> C2[CAFfiene]
+    
+    D --> D1[CRPlumbing.biz]
+    D --> D2[AulaDeInglesEmCasa.com]
+    D --> D3[DaggerQuest.com]
+    D --> D4[VineyardTechnologies.org]
 
-<div align="center">
-  <a href="https://github.com/Vineyard-Technologies/Recitativos-CCB" target="_blank">
-     <img src="https://github.com/Vineyard-Technologies/Recitativos-CCB/blob/main/src/images/RecitativosCCBGitHubLogo.webp" alt="Recitativos CCB Logo" width="830"/>
-  </a>
-</div>
+    B1 --> D3
+
+    A --> D4
+    
+    E --> E1[Recitativos CCB]
+```
 
 ## 📫 Our Website
 
