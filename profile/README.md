@@ -21,6 +21,8 @@ Vineyard Technologies is a mobile app development company committed to creating 
 - **Client-Focused Solutions** - Developing custom mobile solutions tailored to meet specific business needs
 - **Ethical Technology** - Building applications with integrity, prioritizing user privacy and transparent business practices
 
+##  🌳Repository Organization
+
 ```mermaid
 graph TD
     A[Vineyard Technologies] --> B[Games]
